@@ -1,0 +1,22 @@
+,OverallPick,TeamPick,Team,DriverID,LastName,FirstName,Car,Nationality
+0,1,1,3 Orange Whips,max_verstappen,Verstappen,Max,red_bull,Dutch
+1,2,1,deepFried,hamilton,Hamilton,Lewis,mercedes,British
+2,3,1,Kerri,russell,Russell,George,mercedes,British
+3,4,1,Stephen,norris,Norris,Lando,mclaren,British
+4,5,2,Stephen,sainz,Sainz,Carlos,ferrari,Spanish
+5,6,2,Kerri,gasly,Gasly,Pierre,alphatauri,French
+6,7,2,deepFried,perez,Pérez,Sergio,red_bull,Mexican
+7,8,2,3 Orange Whips,bottas,Bottas,Valtteri,alfa,Finnish
+8,9,3,Stephen,leclerc,Leclerc,Charles,ferrari,Monegasque
+9,10,3,Kerri,ricciardo,Ricciardo,Daniel,mclaren,Australian
+10,11,3,deepFried,ocon,Ocon,Esteban,alpine,French
+11,12,3,3 Orange Whips,alonso,Alonso,Fernando,alpine,Spanish
+20,13,4,3 Orange Whips,vettel,Vettel,Sebastian,aston_martin,German
+12,14,4,deepFried,zhou,Zhou,Guanyu,alfa,Chinese
+13,15,4,Kerri,albon,Albon,Alexander,williams,Thai
+14,16,4,Stephen,mick_schumacher,Schumacher,Mick,haas,German
+15,17,5,Stephen,stroll,Stroll,Lance,aston_martin,Canadian
+16,18,5,Kerri,tsunoda,Tsunoda,Yuki,alphatauri,Japanese
+17,19,5,deepFried,latifi,Latifi,Nicholas,williams,Canadian
+18,20,5,3 Orange Whips,kevin_magnussen,Magnussen,Kevin,haas,Danish
+19,99,99,3 Orange Whips,hulkenberg,Hülkenberg,Nico,aston_martin,German
